@@ -39,3 +39,12 @@
 **Thoughts:** I'm still hesitant for publishing my progress on Twitter. I'm still not fast enough against implementation problems. the daily practice would fix it :)
 
 **Link to work:** [Stackoverflow](https://stackoverflow.com/a/64740870/13722628), [Codeforces](https://codeforces.com/contest/1419/submission/97954300)
+
+ ### Day 2: November 9, 2020
+
+**Today's Progress**: 
++ having a 80 minutes implementations contest with 4 question. soling two of them
+
+**Thoughts:** not beign optimal is what can make me disapointment, so I need to concentrate and put more effort.
+
+**Link to work:** [1436A](https://codeforces.com/contest/1436/submission/97994074), [303074A](https://codeforces.com/gym/303074/submission/98018939)
